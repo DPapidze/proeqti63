@@ -1,0 +1,38 @@
+.d1 {
+    width: 365px;
+    height: 365px;
+    border: none solid;
+    background-color: #297E40;
+    border-radius: 12px;
+    display: inline-block;
+    margin-top: 32px;
+    margin-left: 32px;
+}
+
+.d2 {
+    width: 365px;
+    height: 365px;
+    border: none solid;
+    background-color: #8E2877;
+    border-radius: 90px;
+    display: inline-block;
+    margin-top: 32px;
+    margin-left: 32px;
+}
+
+.d3 {
+    width: 365px;
+    height: 365px;
+    border: none solid;
+    background-color: #361BA4;
+    border-radius: 20px;
+    display: inline-block;
+    margin-top: 32px;
+    margin-left: 32px;
+}
+
+.container{
+    width: 1440px;
+    height: 1024px;
+    background-color: #DAA520;
+}
